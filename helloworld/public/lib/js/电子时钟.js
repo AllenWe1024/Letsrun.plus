@@ -16,5 +16,5 @@ function getTimer() {
     m = m < 10 ? '0' + m : m;
     var s = time.getSeconds();
     s = s < 10 ? '0' + s : s;
-    timer.innerHTML = year + '年' + month + '月' + dates + '日' + arr[day] + h + ':' + m + ':' + s;
+    timer.innerHTML = '现在时间是：' + year + '年' + month + '月' + dates + '日' + arr[day] + h + ':' + m + ':' + s;
 }
