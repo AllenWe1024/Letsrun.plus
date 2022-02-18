@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = 80
+const port = 10001
 
 app.use(express.static('public'))
 
@@ -9,5 +9,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
+  console.log(`App listening at http://localhost:${port}`)
 })

@@ -6,6 +6,7 @@
 *.code-workspace
 
 /mainpage/node_modules/
+/helloworld/node_modules/
 
 
 # Local History for Visual Studio Code
