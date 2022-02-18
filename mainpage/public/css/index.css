@@ -46,9 +46,21 @@ body {
 
 }
 
+.div1{
+  /* background-color: #000000; */
+  background: url(../images/backendOSbackground.jpg);
+  background-size: cover;
+
+}
+
 /* .lyyousa {
   display: block;
 } */
+
+.weather{
+  background: url(../images/weatherbackground.jpg);
+  background-size: cover;
+}
 
 .lyyousaButton {
   height: 200px;
