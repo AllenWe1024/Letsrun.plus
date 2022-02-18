@@ -4,7 +4,9 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-/helloworld/node_modules
+
+/mainpage/node_modules/
+
 
 # Local History for Visual Studio Code
 .history/

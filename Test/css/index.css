@@ -1,0 +1,30 @@
+header {
+  height: 100px;
+  background-color: aqua;
+}
+nav {
+  background-color: green;
+}
+nav .navbar-default {
+  background-color: transparent;
+  border-color: 0;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.container aside {
+  height: 800px;
+  background-color: #48ff00;
+}
+.container section {
+  background-color: #fffb00;
+}
+.container .rightBar {
+  height: 800px;
+  background-color: deepskyblue;
+}
+footer {
+  height: 200px;
+  background-color: orangered;
+}
