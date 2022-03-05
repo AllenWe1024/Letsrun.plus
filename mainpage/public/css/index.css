@@ -1,7 +1,5 @@
-
-
 body {
-  background: url(../images/bg_full.jpg);
+  background: url(../images/mainpageBackground.jpg);
   background-size: cover;
   background-color: #000000;
   background-repeat: stretch;
@@ -48,7 +46,7 @@ body {
 
 }
 
-.div1{
+.div1 {
   /* background-color: #000000; */
   background: url(../images/backendOSbackground.jpg);
   background-size: cover;
@@ -59,7 +57,7 @@ body {
   display: block;
 } */
 
-.weather{
+.weather {
   background: url(../images/weatherbackground.jpg);
   background-size: cover;
 }
@@ -96,4 +94,3 @@ body {
   font-size: 20px;
 
 } */
-
